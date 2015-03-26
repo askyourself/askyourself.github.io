@@ -44,7 +44,7 @@ function init() {
         center: new google.maps.LatLng(37.235,-115.811111),
 
         // Disables the default Google Maps UI components
-        disableDefaultUI: true,
+        disableDefaultUI: false,
         scrollwheel: true,
         draggable: true,
 
